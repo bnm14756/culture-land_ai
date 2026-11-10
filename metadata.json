@@ -1,0 +1,8 @@
+{
+  "name": "컬쳐랜드 원스톱 사용처 & 사용안내 (CULTURE LAND)",
+  "description": "컬쳐랜드 사용처 확인과 상품권 충전·전환·결제 순서 안내를 자연스러운 단일 흐름으로 연결한 지능형 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
